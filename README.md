@@ -1,6 +1,6 @@
 # Seller
 
-> This is an information section with item description, shipping calculator and seller's info meant to mimc the look and functionality of the one used by Etsy item page(https://www.etsy.com/listing/568729539/pumpkin-pie-cat-and-small-pet-hat-felt?ref=hp_merch_co-6&variation0=718853680) back in Sep 2020.
+> This is an information section with item description, shipping calculator and seller's info.
 
 
 ## Related Projects
